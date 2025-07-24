@@ -1,12 +1,12 @@
 # Laboratorio de Codificación de Huffman
 
-[cite_start]Este repositorio contiene el notebook interactivo para el **Trabajo de investigación aplicada** de la materia **Estructuras de Datos y Algoritmos**[cite: 6]. El proyecto se centra en la implementación, aplicación y análisis de rendimiento del algoritmo de compresión sin pérdida de Huffman.
+Este repositorio contiene el notebook interactivo para el **Trabajo de investigación aplicada** de la materia **Estructuras de Datos y Algoritmos**. El proyecto se centra en la implementación, aplicación y análisis de rendimiento del algoritmo de compresión sin pérdida de Huffman.
 
-[cite_start]El objetivo es demostrar la aplicación de estructuras de datos y algoritmos en la resolución de problemas complejos, en este caso, la compresión de datos[cite: 12].
+El objetivo es demostrar la aplicación de estructuras de datos y algoritmos en la resolución de problemas complejos, en este caso, la compresión de datos.
 
 ---
 
-##  sadržaj del Notebook
+## Contenido del Notebook
 
 El notebook `experimentos_huffman.ipynb` está dividido en tres secciones principales que guían al lector desde la implementación base hasta el análisis de resultados.
 
