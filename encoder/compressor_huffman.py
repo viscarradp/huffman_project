@@ -1,6 +1,6 @@
 import heapq
 from collections import Counter
-from nodo_huffman import NodoHuffman
+from encoder.nodo_huffman import NodoHuffman
 
 class CompresorHuffman():
     def construir_arbol_huffman(self, frecuencias):
